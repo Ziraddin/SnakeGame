@@ -1,0 +1,23 @@
+#gameContainer{
+
+    border: 1px solid black;
+    text-align: center;
+}
+#gameBoard{
+
+    border: 4px solid black;
+}
+#scoreText{
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+}
+#resetBtn{
+
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    cursor: pointer;
+    width: 8rem;
+    margin: 15px 0;
+}
